@@ -68,14 +68,22 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
               <form
-                action="https://github.com/AjayRajawat01/"
+                action="https://medium.com/@AjayRajawat01"
+                >
+                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                  Medium
+                </button>
+                </form>
+                <div className="flex items-center justify-center">
+              <form
+                action="https://github.com/AjayRajawat01/Chat-Room"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
                 </button>
                 </form>
                 </div>
-            </div>
+              </div>
             <div key={3} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={landregistry}
@@ -84,7 +92,7 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
               <form
-                action="https://ajay-room-chat.vercel.app/"
+                action="https://medium.com/@AjayRajawat01"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
