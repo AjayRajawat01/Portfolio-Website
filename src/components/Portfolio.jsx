@@ -68,6 +68,14 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
               <form
+                action="https://medium.com/@AjayRajawat01"
+                >
+                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                  Medium
+                </button>
+                </form>
+              <div className="flex items-center justify-center">
+              <form
                 action="https://github.com/AjayRajawat01/"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
@@ -75,6 +83,7 @@ const Portfolio = () => {
                 </button>
                 </form>
                 </div>
+              </div>
             </div>
             <div key={3} className="shadow-md shadow-gray-600 rounded-lg">
               <img
@@ -84,7 +93,7 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
               <form
-                action="https://medium.com/@AjayRajawat01"
+                action="https://medium.com/@AjayRajawat01/land-registry-using-blockchain-dc8bf7e33722"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
