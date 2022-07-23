@@ -51,7 +51,7 @@ const Portfolio = () => {
                 </form>
                 <div className="flex items-center justify-center">
               <form
-                action="https://github.com/AjayRajawat01/Chat-Room"
+                action="https://github.com/AjayRajawat01/Real-time-chat-application"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
