@@ -96,12 +96,12 @@ const Portfolio = () => {
                 action="https://medium.com/@AjayRajawat01/land-registry-using-blockchain-dc8bf7e33722"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
+                  Medium
                 </button>
                 </form>
                 <div className="flex items-center justify-center">
               <form
-                action="https://github.com/AjayRajawat01/Chat-Room"
+                action="https://github.com/AjayRajawat01/Land_Registry_Contract"
                 >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
